@@ -1,8 +1,11 @@
 # Home Automation Sever (BitchingHomeServer) Notes #
 
 ## Todos ##
-- Plex
-- couchpotato media server etc. on containers
+[ ] Do something with pi zero!
+[ ] DNS on rPi: re-register and setup rodriguez.zapto.org dynamic dns for home vpn
+
+[ ] Plex
+[ ] couchpotato media server etc. on containers
 
 ## Working Notes ##
 
